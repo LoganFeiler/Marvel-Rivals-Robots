@@ -2,7 +2,6 @@
 Lego Spike Legacy Python code for Lego Robots to participate in a competition similar to Marvel Rivals.
 
 These files were developed for use by the Pacific STEM Robotics Club.
-
 https://www.pacificstemrobotics.org/
 
 
